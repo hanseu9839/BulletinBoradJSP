@@ -73,4 +73,4 @@ nextPage - 페이징 처리 메소드
 
 4.글 작성일자         실제 데이터베이스의 표기되는 0~11번째 자리의 문자를 구하여 날짜를 표기,11~13번째 자리   문자를 구하고 시간을 표시, 14~16번째 자리 문자를 구하여 분을 표시 
 
-[마크다운사용법 링크](https://gist.github.com/ihoneymon/652be052a0727ad59601,"markdown link")
+[마크다운사용법 링크](https://gist.github.com/ihoneymon/652be052a0727ad59601)
