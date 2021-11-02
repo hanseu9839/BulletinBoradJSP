@@ -74,3 +74,16 @@ nextPage - 페이징 처리 메소드
 4.글 작성일자         실제 데이터베이스의 표기되는 0~11번째 자리의 문자를 구하여 날짜를 표기,11~13번째 자리   문자를 구하고 시간을 표시, 14~16번째 자리 문자를 구하여 분을 표시 
 
 [마크다운사용법 링크](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+1. 초기 로그인화면
+![bbsp1](https://user-images.githubusercontent.com/62438578/139779255-08fbd28d-d539-4dbb-9fa2-710325b53584.PNG)
+2. 두번째 회원가입 화면
+![bbsp2](https://user-images.githubusercontent.com/62438578/139779338-afd0919e-5822-47bb-95eb-c1516c9d0029.PNG)
+
+3. 회원가입 성공 
+![bbs3](https://user-images.githubusercontent.com/62438578/139779359-67a00c92-961c-45d7-9375-99f185e339a0.PNG)
+
+4. 메인화면 
+![bbs4](https://user-images.githubusercontent.com/62438578/139779385-6b5d7528-803d-4510-898c-3e54d8a40901.PNG)
+
+5. 게시판 화면
+![bbs5](https://user-images.githubusercontent.com/62438578/139779210-729787fc-a68b-4734-90a4-51d076f521fa.PNG)
